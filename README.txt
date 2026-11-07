@@ -1,4 +1,4 @@
-TANVI & MITESH — ENGAGEMENT INVITATION
+ MITESH & TANVI — ENGAGEMENT INVITATION
 
 Files
 - index.html: complete, self-contained invitation page (CSS and JavaScript are embedded).
